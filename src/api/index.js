@@ -1,4 +1,4 @@
-const BACKEND_BASE_URL = "http://localhost:7000/api/v1";
+const BACKEND_BASE_URL = "https://bonohomebackend.vercel.app/api/v1";
 
 export const API = {
   //auth
